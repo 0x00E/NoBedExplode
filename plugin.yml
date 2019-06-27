@@ -1,0 +1,6 @@
+name: NoBedExplode
+version: 1.0
+description: This prevents beds from exploding in the Nether.
+author: herpingdo
+
+main: me.herp.derp.nbe.NoBedExplode
